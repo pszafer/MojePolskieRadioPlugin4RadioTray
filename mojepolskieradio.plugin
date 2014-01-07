@@ -1,0 +1,6 @@
+[RadioTrayPlugin]
+name=MojePolskieRadio
+desc=Adding all stations from mojepolskieradio.pl
+script=MojePolskieRadioPlugin.py
+class=MojePolskieRadioPlugin
+author=Pawel Szafer
